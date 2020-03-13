@@ -1,0 +1,265 @@
+.pimcore_tag_input{
+    outline: 2px dashed #BABABA;
+    outline-offset: 5px;
+}
+
+   
+/* .cke_editable {
+    cursor: text;
+    outline: 2px dashed #BABABA!important;
+    outline-offset: 5px;
+} */
+.pimcore_tag_input:focus, .pimcore_wysiwyg:focus, .pimcore_tag_textarea:focus {
+     outline-offset: 5px !important;
+}
+
+.footer-link{padding:0; margin:0;}
+.footer-link .pimcore_block_entry {
+float: left;
+clear: none;
+width: 182px;
+outline: 1px dashed
+#BABABA !important;
+outline-offset: 5px;
+margin: 12px 0px 14px;
+    margin-right: 0px;
+margin-right: 17px;
+}
+#footer .col-md-6 {margin-top: 25px;}
+#footer a.btn {
+  background: #8b1e42;
+    color: #ffffff;
+    border-radius: 0;
+    padding: 16px 40px;
+    margin-top: 8px;
+    display: inline-block;
+}
+.footerlogo .pimcore_tag_image img {
+   max-width: 200px;
+
+}
+.footerlogo .pimcore_tag_image{width: 202px !important;}
+
+.logo-n-login .list-inline-item:first-child img {
+    height: 85px;
+}
+.list-inline-item {
+    display: inline-block;
+}
+ ul {margin:0;padding:0;}
+
+ .nav-customize .pimcore_block_entry {
+    clear: inherit;
+    width: 154px;
+    float: left;
+    outline: 1px dashed #BABABA!important;
+    outline-offset: 5px;
+    margin: 10px;
+}
+    
+
+
+.pimcore_tag_link_text .trail-button {
+    background: #5b82b5;
+
+ 
+}
+.pimcore_tag_link_text .trail-button.login {
+    background-color: #0d1d41;
+}
+
+.mobilebtnonly{
+    outline: 2px dashed 
+    #BABABA !important;
+    overflow-y: visible; padding: 10px;
+margin: 10px;
+float: right;
+
+width: 399px;}
+li{list-style: none}
+.logo-n-login .list-inline .list-inline-item:last-child img {
+    width: 210px;
+}
+.navbar-toggler{display:none;}
+.brand-logos{    outline: 1px dashed #BABABA!important;
+    outline-offset: 5px;}
+.login-links{    outline: 1px dashed #BABABA!important;margin-right: 34px !important;
+    outline-offset: 5px;}
+#footer p {text-align: left;
+width: 97%;}
+.copyright{width:100%;}
+.footer-link .pimcore_editable.pimcore_tag_link{float: right;
+
+margin-right: 31px;}
+
+.pimcore_tag_input, .pimcore_tag_wysiwyg, .pimcore_tag_textarea, .pimcore_tag_textarea:focus .pimcore_wysiwyg:focus {
+    outline: 2px dashed #BABABA!important;
+    overflow-y: visible;
+}
+.pimcore_tag_input:hover, .pimcore_wysiwyg:hover, .pimcore_tag_textarea:hover, .pimcore_tag_snippet:hover, .pimcore_tag_renderlet:hover, .pimcore_tag_inc:hover {
+    outline: 
+    transparent;
+    outline-offset: 5px;
+}
+
+.heading_top {
+    position: relative !important;top:0 !important;}
+    .laptopsection_add{ position: relative !important; bottom: 0 !important;margin-bottom: 50px; margin-top: 30px; clear: both;}
+
+    .laptopsection_add .pimcore_tag_image_alt{position: relative;}
+    .videoandimg{position: relative !important;margin: 29px 36px;height: auto !important;}
+    .laptopsection{outline: 2px dashed #BABABA !important; padding: 10px;}
+    .heading_top .pimcore_tag_wysiwyg {
+
+        position: relative;
+        width: 100%;
+        float: left;
+        margin: 10px;
+    }
+    
+    .videoandimg {
+
+        width: 100% !important;
+        margin: auto !important;
+        padding: 30px 10px !important;
+    
+    }
+    .heading_top p {width: 95%; margin: auto;}
+    .pagebody-head-area .pimcore_tag_input, .pimcore_tag_wysiwyg, .pimcore_tag_textarea, .pimcore_tag_textarea:focus .pimcore_wysiwyg:focus {
+        outline: 2px dashed transparent !important;
+        overflow-y: visible;
+        
+    }
+    .pagebody-head-area{ outline: 2px dashed #BABABA!important;
+        overflow-y: visible;padding: 10px 5px 0px;}
+        .benefitssection .pimcore_editable.pimcore_tag_block{width: 100%;}
+        .benefitssection .pimcore_block_buttons{margin: 0 13px;}
+        .pagebody-head-area {
+            margin-bottom: 10px !important;
+        }
+      
+        .benefitssection .pagebody-head-area .pimcore_tag_input, .pimcore_tag_wysiwyg, .pimcore_tag_textarea, .pimcore_tag_textarea:focus .pimcore_wysiwyg:focus {
+            outline: 2px dashed 
+            #BABABA !important;
+            overflow-y: visible;
+        }
+        .jjprism_media .pimcore_editable {padding: 10px;}
+        .pimcore_tag_input.empty, .pimcore_wysiwyg.empty, .pimcore_tag_textarea.empty {
+            outline: none !important;
+        }
+        .head-fix-wrap{z-index: 10005 !important; margin-bottom: 55px;}
+      .jjprism_newstion .pimcore_editable.pimcore_tag_wysiwyg {padding: 20px;}
+ 
+
+  .onlyformobile{max-width: 100%;
+    margin: auto;
+    text-align: center;}
+    .aboutdetails {
+        margin-top: 10px !important;
+    }
+   .aboutdetails .pimcore_tag_wysiwyg{padding: 10px;}
+   .editsection .pimcore_editable {width: 100%;}
+.editsection .pimcore_block_entry{ float: left;
+    clear: initial;
+    width: 29%;
+    outline: 2px dashed
+    #BABABA !important;
+    margin: 10px;
+    overflow-y: visible;
+    height: min-content;
+    min-height: 181px;
+    padding: 0px 7px;}
+.editsection .col-md-4 {flex: 100%;
+    max-width: 100%;}
+     .eventsection h3{
+        outline: 2px dashed 
+        #BABABA !important;
+        overflow-y: visible;
+    }
+    .eventsection .pimcore_editable{width: 100%;}
+    .eventsection .pimcore_wysiwyg{padding: 10px;}
+    .eventsection .pimcore_block_entry {
+
+        clear: inherit;
+        width: 50%;
+        float: left;
+    
+    }
+   .eventsection .col-md-6 {max-width: 100%;}
+   .eventsection .pimcore_block_buttons{margin: 0 16px;}
+   .video_details .pimcore_wysiwyg {padding: 10px;}
+   .editbordervideo{ outline: 2px dashed 
+    #BABABA !important;
+    overflow-y: visible; padding: 10px;}
+   .editbordervideo .x-form-trigger-wrap {width: 258px;}
+   .laptopsection_add .x-form-item {width: 100%;}
+   .brandsection .pimcore_wysiwyg {width: 96%; margin: auto; padding: 10px;}
+   .simpleheading {
+    position: relative !important;
+    top: 0 !important;
+    left: 0 !important;
+    right: 0;
+    transform: inherit !important;
+    margin: 14px 0;
+}
+.mobilebanneredit{margin-top: 20px;}
+.editbannerthum img {width: 100%;}
+.mobile_level2{width: 50%; margin: auto; margin-bottom: 20px;}
+.mobile_level2 .pimcore_wysiwyg {padding: 10px;}
+.simpleheading .pimcore_tag_input:hover, .pimcore_wysiwyg:hover, .pimcore_tag_textarea:hover, .pimcore_tag_snippet:hover, .pimcore_tag_renderlet:hover, .pimcore_tag_inc:hover {
+    outline: 0px dashed 
+    #BABABA !important;
+    outline-offset: 5px;
+}
+.mobilebtn{display: block !important; margin: 5px 0;}
+.trail-button{ margin-right: 35px !important;
+    height: 21px;
+    line-height: 7px;}
+.eventsection .webdetails p, .eventsection .webdetails span{margin-bottom: 0 !important;}
+
+.fixed-top{position: relative !important;}
+
+.copyright p {text-align: right !important; padding: 19px 0 0 0 !important;}
+.carousel-inner{
+    overflow: initial !important;
+}
+.level3service_details{width: 96%; overflow: unset;-webkit-line-clamp: unset;}
+.level3jjslider {  outline: 2px dashed 
+    #BABABA !important;
+   }
+   .all_level3_heading{margin-top: 0;}
+   .service_benefitslist .pimcore_block_entry {clear: unset; float: left;  outline: 2px dashed 
+    #BABABA !important; margin: 10px;}
+    .service_benefitslist .col-6.col-md-2 {max-width: 100%;}
+    .service_benefitslist .pimcore_tag_image {margin: auto;}
+   .service_level3_details .pimcore_wysiwyg{width: 100% !important;}
+   .faqsection .pimcore_block_entry{ outline: 2px dashed#BABABA !important;margin-bottom: 15px;}
+   .Resources .pimcore_block_entry{clear: unset; float: left;  outline: 2px dashed 
+    #BABABA !important; margin: 10px;}
+    .boxresourcesimg {
+        left: 0px !important; position: relative !important;top: 0 !important;
+
+    
+    }
+    .Resources .pimcore_editable{margin: auto;}
+    .jjprism_newstion_levelnewaddeidt{width: 50%; margin: auto;margin-top: 20px;}
+.jjprism_newstion_levelnewaddeidt .pimcore_editable.pimcore_tag_input{outline: 2px dashed 
+    #BABABA !important;}
+        .jjprism_newstion_levelnewaddeidt .pimcore_wysiwyg {padding: 10px;}
+     .jjprism_newstion_levelnewaddeidt .pimcore_block_entry {float: left;
+        clear: unset; outline: 2px dashed 
+        #BABABA !important;
+        margin: 10px;}
+        #jjprism_level3_mobile {
+            display: block !important;
+        }
+      .bgedit{display: block;
+        margin: auto !important;
+        padding-bottom: 20px;}
+        .myaccordion .btn:hover {
+            color:#b4b4b4 !important;
+        }
+        .myaccordion .btn {color: #9c9c9c !important;}
+        .faqsection p { margin: 0; padding: 10px;}
+        .edit100 {width: 100%;}
+        .jjprism_all_service {width: 100%;}

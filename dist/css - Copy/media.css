@@ -1,0 +1,551 @@
+@media (min-width: 1920px) and (max-width: 2560px)  {
+  .topheading_details:before {height: 293%}
+  
+  }
+  
+  @media  screen and (max-width: 1680px) {
+  .features-content .container, .promo-content .container {max-width: 1170px;}
+  .level3_rightservice{width: 55%;}
+  .level3_all_details{width: 55%;}
+  .topheading_details:before {height: 235%}
+  }
+  
+  @media (max-width: 1440px) {
+  .video_homepage{margin: 19px 65px;}
+  .jjprism_video{width: 397px !important;height: 250px;}
+  .topheading_details:before {height: 187%}
+  .modal-dialog{margin-top: 100px;}
+  .laptopsection {width: 535px;}
+  .videoandimg img {height: 248px;}
+  .videoandimg {position: absolute;top: 0;width: 395px;margin: 20px 66px;}
+  .borderbtm2{bottom: 95px;}
+  .level3_topbannerpart h3, .level3_topbannerpart h4, .level3_topbannerpart h6, .level3_topbannerpart h1{font-size: 29px;}
+  .level3border{width: 221px; top: 32px;}
+  
+  }
+  
+  @media (max-width: 1367px) {
+  .level3_topbannerpart h3, .level3_topbannerpart h4, .level3_topbannerpart h6, .level3_topbannerpart h1{font-size: 29px;}
+  .level3_rightservice{width: 65%;}
+  .level3_all_details{width: 65%;}
+  }
+  /* 
+  ##Device = Desktops
+  ##Screen = 1281px to higher resolution desktops
+  */
+  
+  @media (max-width: 1281px) {
+  .level3_topbannerpart h3, .level3_topbannerpart h4, .level3_topbannerpart h6, .level3_topbannerpart h1{font-size: 27px;}
+  
+  }
+  @media screen and (max-width: 1280px) {
+    .simplesection1 {text-align: center;}
+  .procession_bar3 {width: 815px;right: 156px;}
+  .pagebody-head-area h2 {font-size: 22px;}
+  .videozonesection {margin-bottom: 30px;}
+  .jjprism_newstion_levelnewadd {margin-bottom: 30px;}
+   .aboutdetails{margin-bottom: 30px;}
+  .benefitssection {margin-bottom: 20px;}
+  .callsection{margin-bottom: 30px}
+  .levelsection2{margin-bottom: 25px;}
+  .level2service {margin-bottom: 30px;}
+  .levelsection2.marbtm65{margin-bottom: 30px;}
+  .jjprism_level3service{ margin-bottom: 35px; }
+  .marbtm65.testimonial{margin-bottom: 50px;}
+  .marbtm65{ margin-bottom: 30px; }
+  .jjprism_newstion {margin-bottom: 30px;}
+  .heroslide.simplesection.mar30{margin-bottom: 35px;}
+  .heroslide.simplesection.mar30 img{height: 108px}
+  
+  }
+  @media screen and (max-width: 950px) {
+  .procession_bar3 {width: 815px;right: 156px;}
+  
+  }
+  
+  /* 
+  ##Device = Laptops, Desktops
+  ##Screen = B/w 1025px to 1280px
+  */
+  
+  @media (min-width: 1025px) and (max-width: 1280px) {
+  
+  
+  .jjprism_newstion.pad50 {padding: 20px 0;margin-bottom: 30px;}
+  
+  .brandsection {margin-bottom: 30px;}
+  .video_homepage{margin: 14px 48px;}
+  .jjprism_video{width: 300px !important;height: 187px;}
+  .level3_topbannerpart h3, .level3_topbannerpart h4, .level3_topbannerpart h6, .level3_topbannerpart h1{font-size: 29px;}
+  .copyright p {font-size: 13px !important;padding: 45px 0 0 0 !important;}
+  .heroslide {margin-bottom: 80px;}
+  .videoandimg {width: 296px;margin: 11px 49px;}
+  .videoandimg img {height: 189px;}
+  .laptopsection {width: 400px;margin: auto;}
+  .service_level3_heading h1{font-size: 23px;}
+  .service_level3_heading.level3_all_list_details {margin-top: 10px;}
+  .level3_all_details {width: 100%;}
+  .level3_rightservice{width: 82%;}
+  .borderbtm2{bottom: 85px;}
+  .myaccordion {margin: 20px auto 0;}
+  #jjprism_level3_mobile{display: block;}
+  .faq_heading h2, .faq_heading h3, .faq_heading .faq_heading h4, .faq_heading h5, .faq_heading h1 {font-size: 15px;}
+  .level3_all_details p, .level3_all_details span{font-size: 13px;}
+  .level3_rightservice p, .level3_rightservice span{font-size: 13px;}
+  .service_benefitslist.pad50{padding: 20px 0;}
+  #jjprism_level3_mobile{display: none;}
+  
+  
+  }
+  
+  /* 
+  ##Device = Tablets, Ipads (portrait)
+  ##Screen = B/w 768px to 1024px
+  */
+  
+  
+  @media (min-width: 768px) and (max-width: 1024px) {
+  
+  
+  .heroslide.simplesection.mar30{margin-bottom: 35px;}
+  .procession_barnew.procession_barnew_add::after{padding: 60px;}
+  .procession_barnew.procession_barnew_add {top: -59px;z-index: 9;}
+  .pad_sevrice {padding: 40px 0;}
+  .topheading_details:before {height: 140%}
+  .level3_topbannerpart h3, .level3_topbannerpart h4, .level3_topbannerpart h6, .level3_topbannerpart h1 {font-size: 28px;}
+  .level3border{width: 191px;}
+  .jjprism_level3service2 .carousel-indicators{top: 61%;}
+  .carousel-caption.custom_caption {padding-bottom: 0;padding-top: 10px;}
+  .footerlogo img{width: 80%;float: right;}
+  .simplesection1 p, .simplesection1 span{font-size: 12px;}
+  .procession_bar3{width: 59.1%;right: 148px;}
+  .customcol.col-md-5 {max-width: 60%; flex: 60%;}
+  .levelsection2 .col-md-4 {max-width: 60%; flex: 60%;}
+  .levelsection2 .col-md-6{max-width: 80%; flex: 80%;}
+  .benefitssection .col-md-8 {max-width: 100%; flex: 100%;}
+
+  .jjprism_newstion .col-md-5{max-width: 60%; flex: 60%;}
+  .pagebody-head-area h2 {font-size: 22px;}
+  .heading_top{top: 10px;}
+  .heroslide {margin-bottom: 94px;}
+  .head-fix-wrap {min-height: 126px;}
+  .logo-n-login .list-inline-item:first-child img {height: 60px;}
+  .jjprism_mediasection img {max-width: 180px;}
+  .mobile_details{margin: 30px 0px 15px; display: none;}
+  .mobile_details h1{font-size: 24px; margin: 0;}
+  .mobile_details h2{font-size: 20px;}
+  .videoandimg{width: 222px;margin: 11px 37px;}
+  .videoandimg img {height: 139px;}
+  .laptopsection {width: 300px;margin: auto;}
+  .video_homepage{margin: 10px 36px;}
+  .jjprism_video{width: 224px !important;height: 141px;}
+  #footer p {font-size: 13px;}
+  .copyright p {font-size: 11px !important;}
+  .footertext{font-size: 13px !important;}
+  .callsection.pad70{ padding:0; margin-bottom: 30px; }
+  .videozonesection{margin-bottom: 30px;}
+  .customcard_simple { margin-bottom: 10px; }
+  .service_level3_heading h1{font-size: 23px;}
+  .service_level3_heading.level3_all_list_details {margin-top: 10px;}
+  .level3_all_details {width: 100%;}
+  .level3_rightservice{width: 100%}
+  .borderbtm2{bottom: 85px;right: 51px;}
+  .myaccordion {margin: 20px auto 0;}
+  #jjprism_level3_mobile{display: block;}
+  .faq_heading h2, .faq_heading h3, .faq_heading .faq_heading h4, .faq_heading h5, .faq_heading h1 {font-size: 15px;}
+  .level3_all_details p, .level3_all_details span{font-size: 13px;}
+  .level3_rightservice p, .level3_rightservice span{font-size: 13px;}
+  .service_benefitslist.pad50{padding: 20px 0;}
+  #jjprism_level3_mobile{display: none;}
+  
+  }
+  
+  /* 
+  ##Device = Tablets, Ipads (landscape)
+  ##Screen = B/w 768px to 1024px
+  */
+  
+  @media (min-width: 768px) and (max-width: 1024px) and (orientation: landscape) {
+  
+  
+  .jjprism_newstion.pad50 {padding: 20px 0;margin-bottom: 30px;}
+  .brandsection {margin-bottom: 30px;}
+  .procession_barnew.procession_barnew_add {top: -60px;z-index: 9;}
+  .procession_barnew.procession_barnew_add::after{padding: 60px;}
+  .pad_sevrice { padding: 40px 0;}
+  .topheading_details:before {height: 160%}
+  .level3_topbannerpart h3, .level3_topbannerpart h4, .level3_topbannerpart h6, .level3_topbannerpart h1 {font-size: 28px;}
+  .level3border {width: 200px;}
+  .carousel-caption.custom_caption {padding-bottom: 0;padding-top: 10px;}
+  .logo-n-login .list-inline .list-inline-item:last-child img {width: 162px;}
+  .pagebody-head-area h2 {font-size: 23px;}
+  .heroslide {margin-bottom: 95px;}
+  .heading_top{top: 20px;}
+  .callsection.pad70{ padding:0; margin-bottom: 30px; }
+  .videozonesection{margin-bottom: 30px;}
+  .customcard_simple { margin-bottom: 10px; }
+  .logo-n-login .list-inline-item:first-child img {height: 54px;}
+  .service_level3_heading h1{font-size: 23px;}
+  
+  .service_level3_heading.level3_all_list_details {margin-top: 10px;}
+  .level3_all_details {width: 100%;}
+  .level3_rightservice{width: 100%}
+  
+  .borderbtm2{bottom: 85px;right: 30px;}
+  .myaccordion {margin: 20px auto 0;}
+  
+  #jjprism_level3_mobile{display: block;}
+  .faq_heading h2, .faq_heading h3, .faq_heading .faq_heading h4, .faq_heading h5, .faq_heading h1 {font-size: 15px;}
+  .level3_all_details p, .level3_all_details span{font-size: 13px;}
+  .level3_rightservice p, .level3_rightservice span{font-size: 13px;}
+  .service_benefitslist.pad50{padding: 20px 0;}
+  #jjprism_level3_mobile{display: none;}
+  
+  }
+  
+  
+  /* 
+  ##Device = Low Resolution Tablets, Mobiles (Landscape)
+  ##Screen = B/w 481px to 767px
+  */
+  @media screen and ( max-height: 600px ) and ( max-width: 1024px ){ 
+  .navbar-collapse {
+  max-height: 100%;
+  overflow-y: auto;
+  }
+  
+  
+  }
+  
+  
+  
+  @media (min-width: 481px) and (max-width: 767px) {
+  .level3_rightservice {width: 70%;padding-top: 10px;margin: auto;text-align: center;}
+  .videozone_img_video {width: 250px;margin: auto;}
+  .mainvideo{margin: -40px 0 15px;}
+  .heroslide{margin-bottom: 80px;}
+  .copyright{margin-top: 0;}
+  .copyright p {font-size: 10px !important;margin: 0;padding: 0 !important;}
+  #footer p {font-size: 12px;padding: 20px 0 0 0;}
+  #footer a.btn {margin-top: 0px;padding: .375rem 1rem;}
+  #footer .float-right {padding: 0 !important;}
+  .footerlogo img {margin-top: -45px;max-width: 66%;float: right;}
+  .simplepagevideo{margin: 26px 0px 64px !important;}
+  #blockContainer {
+  display: -webkit-box;
+  display: -moz-box;
+  display: box;
+  -webkit-box-orient: vertical;
+  -moz-box-orient: vertical;
+  box-orient: vertical;
+  }
+  #blockA {
+  -webkit-box-ordinal-group: 3;
+  -moz-box-ordinal-group: 3;
+  box-ordinal-group: 3;
+  }
+  #blockB {
+  -webkit-box-ordinal-group: 2;
+  -moz-box-ordinal-group: 2;
+  box-ordinal-group: 2;
+  }
+  .onlyfull{display: none;}
+  .logo-n-login .list-inline .list-inline-item:last-child img {width: 130px;}
+  .phone_icon{left: -12px;top: -19px;}
+  .phone_icon img {width: 66px;}
+  #header .navbar{background-color: #0d1d41}
+  .logo-n-login{border-bottom: none;}
+  .jjprism_mediasection .text-left {text-align: center !important;}
+  .heading_top { display:none; }
+  .navbar-nav{padding-bottom: 200px;}
+  .nav-customize {max-height: 100%;overflow-y: scroll;}
+  .mobilebtn{display: block;margin: 5px 33px;width: 200px;}
+  .mobilebtn .trail-button{width: 100%;text-align: center;border-radius: 50px;}
+  .navbar-collapse{height: 100vh}
+  .eventsection .col-md-10{width: 80%}
+  .levelsection2 .col-md-4{width: 80%}
+  .levelsection2 .col-md-10{width: 80%}
+  .level2service_bg .d-flex{display: unset !important;display: inherit !important;}
+  .bg_icon{float: unset; float: inherit; margin: auto;}
+  .jjprism_all_service{font-size: 13px; text-align: center;}
+  .head-fix-wrap {min-height: 93px;}
+  .mobile_details{display: inline-block; margin: 10px 0px 15px;}
+  .mobile_details h1{font-size: 24px; margin: 0;}
+  .mobile_details h2{font-size: 20px;}
+  .heroslide img {width: 100%;}
+  .videoandimg{width: 222px;margin: 11px 37px;}
+  .videoandimg img {height: 139px;}
+  .video_homepage{margin: 10px 37px;}
+  .jjprism_video{width: 223px !important;height: 141px;}
+  .laptopsection {width: 300px;margin: auto;}
+  .benefitssection .col-md-8 {width: 80%;}
+  .eventsection .col-md-11{width: 80%}
+  .callsection a{font-size: 13px;}
+  .callsection{ background-color: #dbdbdb; padding: 0; }
+  .jjprism_newstion.pad50{padding: 20px 0;margin-bottom: 50px;}
+  .benefitssection .col-md-8 {width: 80%;}
+  .first { order: 2;}
+  .second {order: 1;}
+  .videozonesection .video_details{text-align: center;} 
+  .logo-n-login .list-inline-item:first-child img {height: 54px;}
+  #header .navbar-light .navbar-nav .nav-link{text-align: left; color: #fff}
+  #header .dropdown-item{text-align: left;padding: .25rem 1.9rem;}
+  .login-links {
+  margin-right: 0;
+  text-align: right;
+  position: absolute;
+  right: 0;
+  max-width: 100%;
+  margin: 13px 10px 10px 10px;
+  margin-left: 10px;
+  top: 0;
+  display: none;
+  
+  }
+  .logo-n-login .list-inline-item:first-child img {height: 54px;}
+  .footer-logo {text-align: center;width: 173px;margin: auto;}
+  .footer-logo img {margin-top: 30px;}
+  .copyright{ margin-top:15px; text-align: center; }
+  #footer{padding-bottom: 20px}
+  .jjprism_mediasection{ text-align: center; }
+  .jjprism_mediasection img{max-width: 130px;}
+  .jjprism_mediasection .text-right{ text-align: center !important; }
+  .jjprism_media { margin-top: 20px; }
+  .decorated span h1, .decorated span h2, .decorated span h2, .decorated span h4, .decorated span h5 {font-size: 20px;}
+  .decorated {font-size: 18px;}
+  .brandsection { display: none; }
+  .call_details{ width: 70%; margin: auto; }
+  .callsection.pad70{ padding:0; margin-bottom: 30px; }
+  .videozonesection{margin-bottom: 30px;}
+  .customcard_simple {margin-bottom: 10px; }
+  .mobilearrownone{display: none;}
+  .borderbtm2{display: none;}
+  .level3_rightservice h3{margin: 0;}
+  .level3_all_details h3{margin:0;}
+  .level3_all_details.text-right{width: 70%;padding-top: 10px;margin: auto;text-align: center !important;float: inherit;}
+  .boxresources_slider{display: none;}
+  .container{padding: 0px 55px;}
+  #jjprism_level3_mobile{display: block;}
+  .Resources_heding{text-align: center;}
+  .myaccordion {margin: 20px auto 0;}
+  .service_level3_heading h1{font-size: 23px;margin-top: 6px;}
+  .service_level3_heading.level3_all_list_details {margin-top: 10px;}
+  .level3_all_details {width: 70%;float: inherit;text-align: center; margin: auto;}
+  .borderbtm3{display: none;}
+  .mobilenotshow{display: none;}
+  .procession_barnew{display: none;}
+  .jjprismbordermobile{display: block;}
+  .jjprism_level3service2.padbtm{padding: 4px 0 0;}
+  .myaccordion .faq-txt{font-size: 12px;}
+  .Resources{padding: 0 0 30px;}
+  .myaccordion {margin: 20px auto 0;}
+  .Resources_heding{text-align: center;}
+  #jjprism_level3_mobile{display: block;}
+  .faq_heading h2, .faq_heading h3, .faq_heading .faq_heading h4, .faq_heading h5, .faq_heading h1 {font-size: 15px;}
+  .level3_all_details p, .level3_all_details span{font-size: 13px;}
+  .level3_rightservice p, .level3_rightservice span{font-size: 13px;}
+  .service_benefitslist.pad50{padding: 20px 0;}
+  .mobilepart{display: block;}
+  .mar0{margin: 0;}
+  #jjprism_level3_mobile .carousel-indicators{bottom: -40px !important;}
+    .simpleheading {display:none;}
+  .level2_headingmb{display: block; text-align: center;font-family: 'Gotham-Bold'; margin-top: 20px;}
+  .level2_headingmb.level2_headingmb2 h1 {color: #0d1d41; }
+  .level2_headingmb h1 {font-size: 22px; color: #5b82b5;}
+  .level2_headingmb h2 {font-size: 20px; color: #5b82b5;}
+  .level2service .col {padding: 0;}
+  .levelsection2 .level2_details_jjprism h2, .levelsection2 .level2_details_jjprism h3, .levelsection2 .level2_details_jjprism h4, .levelsection2 .level2_details_jjprism h5, .levelsection2 .level2_details_jjprism h1{
+  font-size: 22px; }
+  .level2service_bg h2, .level2service_bg h3, .levelsection2 .level2service_bg h4, .level2service_bg h5, .level2service_bg h1{ color: #0d1d41;font-size: 20px; }
+  .pad50.level2service{padding: 10px 0 20px;}
+  .pad70.eventsection{padding: 45px 0;}
+  .servicemobile{display: none;}
+  .simpleheading.jjprism-heding{display: block;}
+  .level3jjslider .level3_caption { display: none; }
+  .level3jjslider .carousel-indicators{ display: none; }
+  .pad_sevrice{padding: 20px 0;}
+  .service_level3_img{text-align: center;}
+  .level3service_details{text-align: center; margin-left: 0}
+  .col-md-2.customcol.pad-left {padding-right: 15px !important;text-align: center;margin: auto;max-width: 90px;flex: 90px; }
+  .longEnough {height: 456px;}
+  .all_level3_heading{text-align: center;}
+  .mobilebglevel3_big{display: none;}
+  .mobilebglevel3{display: block;}
+  .modal-dialog{margin-top: 100px;}
+  .level2mbbg {background-color: #ecf3fa;}
+  .simpleheading h3, .simpleheading h4, .simpleheading h6, .simpleheading h1 {font-size: 24px;}
+  .simpleheading h2 {font-size: 20px;}
+  .simpleheading2 h3, .simpleheading2 h4, .simpleheading2 h6, .simpleheading2 h1 {font-size: 24px;}
+  .simpleheading2 h2{font-size: 20px;}
+  .customitem p { font-size: 12px; }
+  .media.custom_mediajjkeller{display: block;}
+  .service_level3_icon {width: 60px;height: 60px;margin-top: 10px;}
+  
+  
+  }
+  
+  /* 
+  ##Device = Most of the Smartphones Mobiles (Portrait)
+  ##Screen = B/w 320px to 479px
+  */
+  
+  @media (min-width: 320px) and (max-width: 480px) {
+  
+  .Resources{padding: 0 0 30px;}
+  .jjprism_level3service{ margin-bottom: 35px; }
+  .marbtm65{ margin-bottom: 30px; }
+  .levelsection2{margin-bottom: 25px;}
+  .media.custom_mediajjkeller{display: block;}
+  .customitem p { font-size: 12px; }
+  .simpleheading2 h3, .simpleheading2 h4, .simpleheading2 h6, .simpleheading2 h1 {font-size: 24px;}
+  .simpleheading2 h2{font-size: 20px;}
+  .simpleheading h2 {font-size: 20px;}
+  .simpleheading h3, .simpleheading h4, .simpleheading h6, .simpleheading h1 {font-size: 24px;}
+  .level3jjslider .level3_caption { display: none; }
+  .level3jjslider .carousel-indicators{ display: none; }
+  .pad_sevrice{padding: 20px 0;}
+  .service_level3_img{text-align: center;}
+  .level3service_details{text-align: center; margin-left: 0;}
+  .col-md-2.customcol.pad-left {padding-right: 15px !important;text-align: center;margin: auto;max-width: 90px;flex: 90px; }
+  .longEnough {height: 500px;}
+  .all_level3_heading{text-align: center;}
+  .simpleheading.jjprism-heding{display: block;}
+  .simpleheading {display:none;}
+  .level2_headingmb{display: block; text-align: center;font-family: 'Gotham-Bold'; margin-top: 20px;}
+  .level2_headingmb h1 {font-size: 22px; color: #5b82b5;}
+  .level2_headingmb h2 {font-size: 20px; color: #5b82b5;}
+  .level2mbbg{background-color: #ecf3fa;}
+  .level2service .col {padding: 0;}
+  .levelsection2 .level2_details_jjprism h2, .levelsection2 .level2_details_jjprism h3, .levelsection2 .level2_details_jjprism h4, .levelsection2 .level2_details_jjprism h5, .levelsection2 .level2_details_jjprism h1{
+  font-size: 22px; }
+  .level2service_bg h2, .level2service_bg h3, .levelsection2 .level2service_bg h4, .level2service_bg h5, .level2service_bg h1{ color: #0d1d41;font-size: 20px; }
+  .pad50.level2service{padding: 10px 0 20px;}
+  .pad70.eventsection{padding: 45px 0;}
+  .servicemobile{display: none;}
+  #jjprism_level3_mobile .carousel-indicators{bottom: -45px !important;}
+  .mar0{margin: 0;}
+  .mobilepart{display: block;}
+  .service_benefitslist.pad50{padding: 20px 0;}
+  .service_level3_heading h1{font-size: 23px; margin-top:8px;}
+  .service_level3_heading.level3_all_list_details {margin-top: 10px;}
+  .level3_all_details {width: 70%;float: inherit;text-align: center; margin: auto;}
+  .borderbtm3{display: none;}
+  .mobilenotshow{display: none;}
+  .procession_barnew{display: none;}
+  .jjprismbordermobile{display: block;}
+  .jjprism_level3service2.padbtm{padding: 4px 0 0;}
+  .myaccordion .faq-txt{font-size: 12px;}
+  .myaccordion {margin: 20px auto 0;}
+  .Resources_heding{text-align: center;}
+  #jjprism_level3_mobile{display: block;}
+  .faq_heading h2, .faq_heading h3, .faq_heading .faq_heading h4, .faq_heading h5, .faq_heading h1 {font-size: 15px;}
+  .level3_all_details p, .level3_all_details span{font-size: 13px;}
+  .level3_rightservice p, .level3_rightservice span{font-size: 13px;}
+  #jjprism_level3_mobile{width: 80%; position:relative; margin: auto;}
+  .boxresources_slider{display: none;}
+  .level3_all_details h3{margin:0;}
+  .level3_all_details.text-right{width: 70%;padding-top: 10px;margin: auto;text-align: center !important; float: inherit;}
+  .level3_rightservice h3{margin: 0;}
+  .borderbtm2{display: none;}
+  .mobilearrownone{display: none;}
+  .videozone_img_video {width: 250px;margin: auto;}
+  .mainvideo{margin: -40px 0 15px;}
+  .copyright{margin-top: 0;}
+  .copyright p {font-size: 10px !important;margin: 0;padding: 0 !important;}
+  #footer p {font-size: 12px;padding: 20px 0 0 0;}
+  #footer a.btn {margin-top: 0px;padding: .375rem 1rem;}
+  #footer .float-right {padding: 0 !important;}
+  .footerlogo img {margin-top: -60px;max-width: 44%;float: right;}
+  .simplepagevideo{margin: 26px 0px 64px !important;}
+  #blockContainer {
+  display: -webkit-box;
+  display: -moz-box;
+  display: box;
+  -webkit-box-orient: vertical;
+  -moz-box-orient: vertical;
+  box-orient: vertical;
+  }
+  #blockA {
+  -webkit-box-ordinal-group: 3;
+  -moz-box-ordinal-group: 3;
+  box-ordinal-group: 3;
+  }
+  #blockB {
+  -webkit-box-ordinal-group: 2;
+  -moz-box-ordinal-group: 2;
+  box-ordinal-group: 2;
+  }
+  .onlyfull{display: none;}
+  
+  .logo-n-login .list-inline .list-inline-item:last-child img {width: 130px;}
+  .phone_icon{left: -12px;top: -19px;}
+  .phone_icon img {width: 66px;}
+  #header .navbar{background-color: #0d1d41}
+  .logo-n-login{border-bottom: none;}
+  .jjprism_mediasection .text-left {text-align: center !important;}
+  .heading_top {display:none; }
+  .navbar-collapse {height: 100vh;}
+  .nav-customize {max-height: 100%;overflow-y: scroll;}
+  .mobilebtn{display: block;margin: 5px 33px;width: 200px;}
+  .trail-button{width: 100%;text-align: center;border-radius: 50PX;}
+  .eventsection .col-md-10{width: 80%}
+  .levelsection2 .col-md-4{width: 80%}
+  .levelsection2 .col-md-10{width: 80%}
+  .level2service_bg .d-flex{display: unset !important;display: inherit !important;}
+  .bg_icon{float: unset; float: inherit; margin: auto;}
+  .jjprism_all_service{font-size: 12px; text-align: center;}
+  .login-links{display: none;}
+  .brand-logos {white-space: nowrap;}
+  .head-fix-wrap {min-height: 93px;}
+  .mobile_details{display: inline-block; margin: 24px 0px 10px;}
+  .mobile_details h1{font-size: 24px; margin: 0;}
+  .mobile_details h2{font-size: 20px;}
+  .heroslide img {width: 100%;height: 174px;}
+  .videoandimg{width: 222px;margin: 11px 37px;}
+  .videoandimg img {height: 139px;}
+  .laptopsection {width: 300px;margin: auto;}
+  .jjprism_newstion.pad50{padding: 20px 0;margin-bottom: 50px;}
+  .callsection p, .callsection span{font-size: 12px;}
+  .callsection a{font-size: 13px;}
+  .callsection{ background-color: #dbdbdb; padding: 0 }
+  .benefitssection .col-md-8 {width: 80%;}
+  .eventsection .col-md-11{width: 80%}
+  .first {order: 2;}.second {order: 1;}
+  .callsection.pad70{ padding:0; margin-bottom: 30px; }
+  .videozonesection{margin-bottom: 30px;}
+  .customcard_simple {  margin-bottom: 10px; }
+  .videozonesection .video_details{text-align: center;}
+  .login-links {margin-right: 0;text-align: right;position: absolute;right: 0;max-width: 100%;margin: -2px 10px 10px 10px;}
+  .logo-n-login .list-inline-item:first-child img {height: 54px;}
+  #header .navbar-light .navbar-nav .nav-link{text-align: left; color: #fff}
+  #header .dropdown-item{text-align: left;padding: .25rem 1.9rem;}
+  .footer-link li a{padding-right: 10px;font-size: 12px;}
+  #footer .btn-jjk{width: 100%;display: block;text-align: center;}
+  .footer-logo {text-align: center;width: 173px;margin: auto;}
+  .footer-logo img {margin-top: 30px;}
+  .copyright{ margin-top:15px; text-align: center; }
+  #footer{padding-bottom: 20px}
+  .jjprism_mediasection{ text-align: center; }
+  .jjprism_mediasection img{max-width: 150px;}
+  .jjprism_mediasection .text-right{ text-align: center !important; }
+  .jjprism_media { margin-top: 20px; }
+  .decorated span h1, .decorated span h2, .decorated span h2, .decorated span h4, .decorated span h5 {font-size: 15px;}
+  .decorated {font-size: 18px;}
+  .brandsection { display: none; }
+  .call_details{ width: 63%; margin: auto; }
+  .jjprism_newstion_details p, .jjprism_newstion_details span{font-size: 12px;}
+  .jjprism_media p, .jjprism_media span{font-size: 12px;}
+  .eventsection .webdetails p, .eventsection .webdetails span{font-size: 12px;}
+  .eventsection .websection {font-size: 20px;}
+  .videozonesection .video_details p, .videozonesection .video_details span {font-size: 12px;}
+  .aboutdetails p, .aboutdetails span {font-size: 12px;}
+  .heroslide{margin-bottom: 64px;}
+  .level3_rightservice {width: 70%;padding-top: 10px;margin: auto;text-align: center;}
+  .mobilebglevel3_big{display: none;}
+  .mobilebglevel3{display: block;}
+  .modal-dialog{margin-top: 100px;}
+  .service_level3_icon {width: 60px;height: 60px;margin-top: 10px;}
+  .video_homepage{margin: 10px 36px;}
+  .jjprism_video{ width: 224px !important;height: 141px;}
+  
+  }
